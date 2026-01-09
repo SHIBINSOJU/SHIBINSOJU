@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6007A&height=200&section=header&text=Hi%20there,%20I'm%20Shibinsoju!&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hi%20there,%20I'm%20Shibinsoju!&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 
 ### <div align="center">🚀 Founder of ShotDevs | Discord Bot Developer | Web Designer</div>
@@ -7,10 +7,10 @@
 <div align="center">
   
   <a href="https://discord.com/users/1338869759441375254">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://shibin.shotdevs.live/">
-    <img src="https://img.shields.io/badge/Portfolio-E6007A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:shibinsoju49@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -42,14 +42,14 @@ I am a **16-year-old developer** from Nilambur, Malappuram. I specialize in buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSOJU&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSOJU&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSOJU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSOJU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph"  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBINSOJU&theme=radical&hide_border=true&background=0d1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBINSOJU&theme=tokyonight&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="streak graph" />
 </div>
 
 <br>
