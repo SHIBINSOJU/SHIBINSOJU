@@ -42,15 +42,15 @@ I am a **16-year-old developer** from Nilambur, Malappuram. I specialize in buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSOJU&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="10"/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSOJU&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIBINSOJU&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIBINSOJU&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 <br>
