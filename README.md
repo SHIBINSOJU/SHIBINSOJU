@@ -24,7 +24,7 @@
 
 I am a **16-year-old developer** from Nilambur, Malappuram. I specialize in building high-performance Discord bots and modern websites.
 
-- 🔭 I’m currently working on **Pixel Music Bot & ShotDevs**
+- 🔭 I’m currently working on **ShotDevs as a developer**
 - 💎 Owner of **ShotDevs Startup**
 - 💬 Ask me about **Node.js, Discord.js, & Web Development**
 - ⚡ Fun fact: I bridge the gap between technical creativity and community management.
