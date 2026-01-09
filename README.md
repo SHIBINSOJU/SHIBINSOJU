@@ -9,7 +9,7 @@
   <a href="https://discord.com/users/1338869759441375254">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://shotdevs.live/">
+  <a href="https://shibin.shotdevs.live/">
     <img src="https://img.shields.io/badge/Portfolio-E6007A?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:shibinsoju49@gmail.com">
