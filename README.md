@@ -42,14 +42,14 @@ I am a **16-year-old developer** from Nilambur, Malappuram. I specialize in buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSOJU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSOJU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSOJU&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSOJU&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBINSOJU&theme=tokyonight&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBINSOJU&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
